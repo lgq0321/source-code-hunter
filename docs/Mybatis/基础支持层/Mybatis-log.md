@@ -13,7 +13,6 @@
   - `org.apache.ibatis.logging.slf4j.Slf4jLocationAwareLoggerImpl`
   - ...
 
-
 ## 源码流程
 
 - mybatis 提供了一个日志接口,内容如下.
